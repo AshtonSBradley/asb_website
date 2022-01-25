@@ -19,14 +19,14 @@ tags:
 categories: []
 date: '2021-04-01'
 lastmod: 2022-01-25T13:21:24+13:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Duan–Simon inequality is violated by DS−, indicating entanglement.'
   focal_point: ''
   preview_only: false
 
