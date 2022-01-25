@@ -30,7 +30,7 @@ url_video: ""
 # slides: example
 ---
 
-Quantum many body systems relevant for ultra-cold gases have vast Hilbert spaces making exact quantum dynamics infeasible. We have developed practical methods for describing high-temperature Bose gases. These c-field methods are able to describe quantum dynamics of $\sim 10^6$ atoms at temperatures ranging from $T\sim T_c$ down to well below the transition temperature. 
+Quantum many body systems relevant for ultra-cold gases have vast Hilbert spaces making exact quantum dynamics infeasible. We have developed practical methods for describing high-temperature Bose gases. These c-field methods are able to describe quantum dynamics of 1000,000 atoms at temperatures ranging from above the critical point down to well below the transition temperature. The theory allows description of Kibble-Zurek physics and rich dynamics of quantum quenches trapping vortices and other topological excitations including dark solitons.
 
 
 <!-- When a quantum system is strongly coupled to its environment the usual approximations used to derive a master equation break down, and we need to use more sophisticated methods. These non-Markovian systems are particularly relevant for understanding the mechanisms of decoherence in solid state systems. We have developed new methods combining the path integral description of quantum mechanics with matrix product based techniques to numerically find the dynamics of these open quantum systems. -->
