@@ -9,7 +9,7 @@ authors:
 - T. P. Billam
 - B P Anderson
 - A S Bradley
-tags: [Quantum Turbulence]
+tags: []
 categories: []
 date: '2015-04-01'
 lastmod: 2022-01-25T13:21:27+13:00
