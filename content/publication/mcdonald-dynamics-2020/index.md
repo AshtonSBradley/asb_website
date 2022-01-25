@@ -14,14 +14,14 @@ tags: [CFields]
 categories: []
 date: '2020-02-01'
 lastmod: 2022-01-25T13:21:25+13:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Steady-state spectra for numerical solutions of the SPGPE and the analytic solutions'
   focal_point: ''
   preview_only: false
 
