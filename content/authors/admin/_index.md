@@ -27,9 +27,14 @@ social:
     link: https://github.com/ashtonsbradley
 organizations:
   - name: University of Otago
-    url: https://www.otago.ac.nz/
-# education:
-#   courses: []
+    url: https://www.otago.ac.nz/physics
+  - name: Dodd-Walls Centre
+    url: https://doddwalls.ac.nz/
+education:
+  courses:
+  - course: PhD in Theoretical Physics (advisor Crispin Gardiner)
+    institution: Victoria University
+    year: 2006
 email: ""
 superuser: true
 highlight_name: true
