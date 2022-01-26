@@ -14,7 +14,7 @@ tags:
 categories: []
 date: '2021-12-01'
 lastmod: 2022-01-27T10:35:38+13:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -34,7 +34,7 @@ projects: []
 publishDate: '2022-01-26T21:35:38.077335Z'
 publication_types:
 - '2'
-abstract: We develop a formal and numerical spectral analysis for $U(1)$ symmetry-breaking
+abstract: We develop a formal and numerical spectral analysis for U(1) symmetry-breaking
   quantum fluids suitable for analyzing turbulent flows, with specific application
   to the Gross-Pitaevskii fluid. Our formulation establishes the connection between
   energy spectral densities, velocity power spectra, and two-point spatial correlation

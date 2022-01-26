@@ -14,7 +14,7 @@ tags:
 categories: []
 date: '2021-12-01'
 lastmod: 2022-01-27T10:35:38+13:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -39,8 +39,7 @@ abstract: We develop a formulation of the Gross-Pitaevskii equation for the ultr
   enabling numerical description of large spatial domains at fine resolution over
   long expansion times. The scaling dynamics is formulated for arbitrary confining
   potentials in terms of the stress tensor of the quantum fluid, a treatment that
-  generalizes readily to non-contact interactions. The ideal gas, a cigar-shaped condensate
-  in the Thomas-Fermi regime, and a linear superposition of wavepackets are evolved
+  generalizes readily to non-contact interactions. The ideal gas, a cigar-shaped condensate in the Thomas-Fermi regime, and a linear superposition of wavepackets are evolved
   as applications of the scaling dynamics. We observe known scaling for a prolate
   BEC in the Thomas-Fermi regime, and identify a regime of linear self-similar expansion.
   Our results have implications for Bose-Einstein condensate experiments and matter-wave
@@ -49,6 +48,4 @@ publication: '*arXiv:2112.09280 [cond-mat, physics:physics, physics:quant-ph]*'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2112.09280
-- name: URL
-  url: http://arxiv.org/abs/2112.09280
 ---
