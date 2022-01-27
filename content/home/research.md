@@ -35,6 +35,8 @@ content:
     tag: Entanglement
   - name: Vortex Phases
     tag: Vortex Phases
+  - name: Phase transitions
+    tag: Spontaneous defects
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
