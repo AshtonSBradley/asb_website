@@ -1,6 +1,6 @@
 ---
 title: Triplet Entanglement
-summary: Three of a kind
+summary: Three of a kind quantum entwined
 tags:
 - Entanglement
 date: "2016-04-27T00:00:00Z"

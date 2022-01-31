@@ -1,6 +1,6 @@
 ---
 title: Vortex Hydrodynamics
-summary: Anomalous quantum fluid within a superfluid
+summary: Fluid within a fluid
 tags:
 - Vortex Hyrodynamics
 date: "2016-04-27T00:00:00Z"
