@@ -40,3 +40,5 @@ superuser: true
 highlight_name: true
 ---
 I am an associate professor of physics at the University of Otago, New Zealand. My group's work spans multiple disciplines of theoretical and mathematical physics, including condensed matter, degenerate gases, hydrodynamics, atomic physics, quantum optics and quantum information.
+
+<a class="twitter-timeline" data-width="500" data-height="600" href="https://twitter.com/ashtonbradley?ref_src=twsrc%5Etfw">Tweets by ashtonbradley</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
