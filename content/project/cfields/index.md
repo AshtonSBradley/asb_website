@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Superfluid quench into planar confinement
+  caption: Low-dimensional stochastic projected GPE
   focal_point: Smart
 
 links:
@@ -32,5 +32,5 @@ url_video: ""
 
 Quantum many body systems relevant for ultra-cold gases have vast Hilbert spaces making exact quantum dynamics infeasible. We have developed practical methods for describing high-temperature Bose gases. These c-field methods are able to describe quantum dynamics of $10^6$ atoms at temperatures ranging from $\sim T_c$ down to well below the transition temperature. The theory allows description of Kibble-Zurek physics and rich dynamics of quantum quenches trapping vortices and other topological excitations including dark solitons.
 
+Ultra-cold gases are, of course, rather susceptible the thermal energy, necessitating a detailed quantitative theoretical treatment of reservoir interactions. We have developed new methods for describing reservoir interactions for spinor gases and matter-waves systems confined to reduced dimension. Dissipation is crucial for understanding dynamics of vortices, solitons, and collective modes in experiments. 
 
-<!-- When a quantum system is strongly coupled to its environment the usual approximations used to derive a master equation break down, and we need to use more sophisticated methods. These non-Markovian systems are particularly relevant for understanding the mechanisms of decoherence in solid state systems. We have developed new methods combining the path integral description of quantum mechanics with matrix product based techniques to numerically find the dynamics of these open quantum systems. -->
