@@ -56,3 +56,13 @@ abstract: We review phase-space techniques based on the Wigner representation th
 publication: '*Advances in Physics*'
 doi: 10.1080/00018730802564254
 ---
+  <section>
+    <div id="inner">
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+        <span
+          class="__dimensions_badge_embed__" 
+          data-doi="10.1080/00018730802564254" 
+          data-hide-zero-citations="true" >
+        </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+  </section>

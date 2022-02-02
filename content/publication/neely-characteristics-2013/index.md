@@ -52,3 +52,13 @@ abstract: Fluids subjected to suitable forcing will exhibit turbulence, with cha
 publication: '*Physical Review Letters*'
 doi: 10.1103/PhysRevLett.111.235301
 ---
+  <section>
+    <div id="inner">
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+        <span
+          class="__dimensions_badge_embed__" 
+          data-doi="10.1103/PhysRevLett.111.235301" 
+          data-hide-zero-citations="true" >
+        </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+  </section>
