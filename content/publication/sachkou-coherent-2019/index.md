@@ -65,3 +65,14 @@ abstract: Following vortices around When stirred, superfluids react by creating 
 publication: '*Science*'
 doi: 10.1126/science.aaw9229
 ---
+  <section>
+    <div id="inner">
+      <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+        <span
+          class="__dimensions_badge_embed__" 
+          data-doi="10.1126/science.aaw9229" 
+          data-hide-zero-citations="true" >
+        </span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+  </section>
+     <div class='altmetric-embed' data-doi='10.1126/science.aaw9229'></div>
