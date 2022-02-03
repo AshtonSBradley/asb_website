@@ -13,6 +13,21 @@ main:
   - name: Publications
     url: '#featured'
     weight: 30
+  - name: People
+    url: '#people'
+    weight: 40
+  - name: Theses
+    url: '#theses'
+    weight: 50
+  - name: Teaching
+    url: '#teaching'
+    weight: 60
+  - name: Code 
+    url: '#code'
+    weight: 70
+  - name: Media
+    url: '#media'
+    weight: 80
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
@@ -21,7 +36,7 @@ main:
   #   weight: 50
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
