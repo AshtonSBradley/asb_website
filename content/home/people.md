@@ -24,13 +24,14 @@ design:
 - Xiaoquan Yu, RF 2015-2019
 - Thomas Billam, PD 2014-2016
   
-## Collaborators
+## Current collaborators
 - Prof Brian Anderson, University of Arizona
 - Dr Tyler Neely, University of Queensland
 - Dr Matthew Reeves, University of Queensland
 - Prof Matthew Davis, University of Queensland 
 - Dr Stuart Szigeti, Australian National University
-  
+- Prof David Snoke, University of Pittsburgh
+- Dr Shouvik Mukherjee, University of Maryland, College Park
 ## Graduates
 - Michael Cawte (MSc 2019)
 - Rob McDonald (PhD 2019)
