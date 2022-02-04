@@ -34,16 +34,16 @@ publication_types:
 abstract: We theoretically explore key concepts of two-dimensional turbulence in a
   homogeneous compressible superfluid described by a dissipative two-dimensional Gross-Pitaeveskii
   equation. Such a fluid supports quantized vortices that have a size characterized
-  by the healing length $. We show that, for the divergence- free portion of the superfluid
-  velocity field, the kinetic-energy spectrum over wave number k may be decomposed
-  into an ultraviolet regime (k ) $ 1) having a universal k 3 scaling arising from
-  the vortex core structure, and an infrared regime (k ( $ 1) with a spectrum that
+  by the healing length $\xi$. We show that, for the divergence- free portion of the superfluid
+  velocity field, the kinetic-energy spectrum over wave number $k$ may be decomposed
+  into an ultraviolet regime $k\gg \xi^{-1} $ having a universal $k^{-3}$ scaling arising from
+  the vortex core structure, and an infrared regime $k\ll \xi^{-1}$ with a spectrum that
   arises purely from the configuration of the vortices. The Novikov power-law distribution
-  of intervortex distances with exponent  1=3 for vortices of the same sign of circulation
-  leads to an infrared kinetic-energy spectrum with a Kolmogorov k 5=3 power law,
+  of intervortex distances with exponent $-1/3$ for vortices of the same sign of circulation
+  leads to an infrared kinetic-energy spectrum with a Kolmogorov $k^{-5/3}$ power law,
   which is consistent with the existence of an inertial range. The presence of these
-  k 3 and k 5=3 power laws, together with the constraint of continuity at the smallest
-  configurational scale k % $ 1, allows us to derive a new analytical expression for
+  $k^{-3}$ and $k^{-5/3}$ power laws, together with the constraint of continuity at the smallest
+  configurational scale $k\approx\xi^{-1}$, allows us to derive a new analytical expression for
   the Kolmogorov constant that we test against a numerical simulation of a forced
   homogeneous, compressible, two-dimensional superfluid. The numerical simulation
   corroborates our analysis of the spectral features of the kinetic-energy distribution,
@@ -56,38 +56,14 @@ abstract: We theoretically explore key concepts of two-dimensional turbulence in
 publication: '*Physical Review X*'
 doi: 10.1103/PhysRevX.2.041001
 ---
-<html>
-  <style>
-    section {
-        background: white;
-        color: black;
-        border-radius: 1em;
-        padding: 1em;
-        left: 50% }
-    #inner {
-        display: inline-block;
-        display: flex;
-        align-items: center;
-        justify-content: center }
-  </style>
   <section>
     <div id="inner">
       <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-        <span style="float:left"; 
+        <span
           class="__dimensions_badge_embed__" 
           data-doi="10.1103/PhysRevX.2.041001" 
-          data-hide-zero-citations="true" 
-          data-legend="always">
+          data-hide-zero-citations="true" >
         </span>
       <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-        <div  style="float:right"; 
-          data-link-target="_blank" 
-          data-badge-details="right" 
-          data-badge-type="medium-donut"
-          data-doi="10.1103/PhysRevX.2.041001"   
-          data-condensed="true" 
-          data-hide-no-mentions="true" 
-          class="altmetric-embed">
-        </div>
-    </div>
   </section>
+   <div class='altmetric-embed' data-doi='10.1103/PhysRevX.2.041001'></div>
