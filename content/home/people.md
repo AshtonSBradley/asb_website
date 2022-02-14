@@ -15,7 +15,6 @@ design:
 - Tommy Fischer (Hons 2022)
 - Tim Copland (Summer)
 - Erix Xu (MSc)
-- Jordan Clarke (MSc)
 - Zain Mehdi (PhD ANU; primary advisor Stuart Szigeti)
 
 ## Research fellows and postdocs
@@ -33,6 +32,7 @@ design:
 - Prof David Snoke, University of Pittsburgh
 - Dr Shouvik Mukherjee, University of Maryland, College Park
 ## Graduates
+- Jordan Clarke (MSc 2022)
 - Michael Cawte (MSc 2019)
 - Rob McDonald (PhD 2019)
 - Mathew Denys (Hons 2018)
